@@ -1,0 +1,259 @@
+{
+  "uuid": "5b44c7b3-b0c2-4ea5-930a-ad6ab7161238",
+  "historyId": "64994a4a169256a92031e883b5437656",
+  "testCaseId": "3e87c3541be3b8656bbfc6b9099d0484",
+  "fullName": "ReqnrollProject/Features/SeleniumFeature/Verify student registration with valid details",
+  "labels": [
+    {
+      "name": "host",
+      "value": "AUTODV3Z8D1TZEG"
+    },
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "Reqnroll"
+    },
+    {
+      "name": "package",
+      "value": "Features.SeleniumFeature"
+    },
+    {
+      "name": "feature",
+      "value": "SeleniumFeature"
+    }
+  ],
+  "links": [],
+  "name": "Verify student registration with valid details",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "One or more steps are not implemented."
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given User is on the registration page",
+      "status": "skipped",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "The step is not implemented."
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1749105290057,
+      "stop": 1749105290059
+    },
+    {
+      "name": "Given User enters firstname \"John\"",
+      "status": "skipped",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1749105290059,
+      "stop": 1749105290059
+    },
+    {
+      "name": "Given User enters email \"john.doe@example.com\"",
+      "status": "skipped",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1749105290059,
+      "stop": 1749105290059
+    },
+    {
+      "name": "Given User selects gender \"Male\"",
+      "status": "skipped",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1749105290059,
+      "stop": 1749105290059
+    },
+    {
+      "name": "Given User enters mobile number \"9876543210\"",
+      "status": "skipped",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1749105290059,
+      "stop": 1749105290059
+    },
+    {
+      "name": "Given User selects date of birth \"15-03-2000\"",
+      "status": "skipped",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1749105290059,
+      "stop": 1749105290059
+    },
+    {
+      "name": "Given User enters subjects \"Mathematics, Physics\"",
+      "status": "skipped",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1749105290059,
+      "stop": 1749105290060
+    },
+    {
+      "name": "Given User selects hobbies \"Reading, Music\"",
+      "status": "skipped",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1749105290060,
+      "stop": 1749105290060
+    },
+    {
+      "name": "Given User selects picture \"C:\\Users\\hitka\\Downloads\\sampleFile.jpeg\"",
+      "status": "skipped",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1749105290060,
+      "stop": 1749105290060
+    },
+    {
+      "name": "Given User enters current address \"123 Main Street, Mangalore\"",
+      "status": "skipped",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1749105290060,
+      "stop": 1749105290060
+    },
+    {
+      "name": "Given User selects state \"NCR\"",
+      "status": "skipped",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1749105290060,
+      "stop": 1749105290060
+    },
+    {
+      "name": "Given User selects city \"Lucknow\"",
+      "status": "skipped",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1749105290060,
+      "stop": 1749105290060
+    },
+    {
+      "name": "Given User clicks on submit button in the registration form",
+      "status": "skipped",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1749105290060,
+      "stop": 1749105290060
+    },
+    {
+      "name": "Then Registration is successful",
+      "status": "skipped",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1749105290060,
+      "stop": 1749105290060
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1749105290057,
+  "stop": 1749105290064
+}
